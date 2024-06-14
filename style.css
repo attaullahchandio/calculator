@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.button{
+    padding: 10px 14px;
+    margin: 3px 5px;
+    color:white;
+    border: none;
+    border-radius: 9px;
+    background-color: #772a2a;
+}
+.button:hover{
+    background-color: orangered;
+}
+.row{
+    margin: auto;
+}
+.output input{
+    padding: 9px 14px;
+    margin: 12px 5px 5px 5px;
+}
